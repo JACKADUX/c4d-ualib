@@ -4,5 +4,4 @@ ualib is a user interface framework based on the C4D GeUserArea module, which al
 # Wiki
 https://github.com/JACKADUX/c4d-ualib/wiki
 
-# Api
-https://github.com/JACKADUX/c4d-ualib/blob/main/html/index.html
+
